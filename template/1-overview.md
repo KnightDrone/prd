@@ -16,4 +16,6 @@ Key features of Wild Knight:
 
 Wild Knight envisions a future where safety and convenience are paramount for outdoor enthusiasts. By providing timely access to vital supplies, the app aims to empower users to embark on their adventures confidently. With a steadfast commitment to simplicity, efficiency, and user satisfaction, Wild Knight endeavors to establish itself as the premier solution for hikers exploring remote landscapes.
 
+Wild Knight is the ultimate solution for outdoor enthusiasts, revolutionizing adventure with drone-delivered essential supplies. Our app seamlessly connects hikers with vital gear, ensuring safety and convenience in even the most remote locations. With Wild Knight, explore with confidence and never let the wilderness hold you back.
+
 Our MVP aims to achieve substantial user adoption among outdoor enthusiasts, focusing on high downloads, active monthly users, and user trust in credentials. By surpassing a predefined user threshold, we aim to attract commercial interest and establish Wild Knight as an essential tool for adventurers.
