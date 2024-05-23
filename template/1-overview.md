@@ -9,6 +9,8 @@ Key features of Wild Knight:
 * Drone Delivery Service: Human Operators seamlessly fulfill orders by expertly attaching purchased products to drones. This cutting-edge delivery mechanism ensures swift and reliable deliveries to even the most remote locations, enhancing convenience for users.
 
 * Order Status Updates: Buyers receive timely updates on the status of their orders, offering transparency and reassurance throughout the delivery process. These periodic updates ensure that users remain informed about the progress of their deliveries, enhancing their overall experience with Wild Knight.
+  
+* AI Chat Assistant: Buyers also have the option of communicating with an AI chatbot for any outdoor related queries, allowing them to quickly access useful information.
 
 * Operator Management Tools: Operators are equipped with intuitive management tools, including a specialized map interface highlighting pending orders. Additionally, a dedicated screen facilitates efficient order management, allowing Operators to accept or reject orders promptly.
 
