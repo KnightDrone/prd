@@ -14,7 +14,8 @@ The WildKnight MVP aims to provide a service that enhances the wellbeing and con
 ## User Stories and Key Features
 ### User stories for hikers:
 - As a hiker, I would like to see where I am on the map before placing an order.
-- As a hiker I would like to see the selection of items available for order before choosing.
+- As a hiker. I would like to see the selection of items available for order before choosing.
+- As a hiker, I would like to have offline guides with tips for hiking.
 - As a hiker, I would like to get hiking tips from a chatbot.
 - As a hiker, I would like to see how long until my order arrives.
 - As a hiker, I would like to download parts of the map.
@@ -27,7 +28,8 @@ The WildKnight MVP aims to provide a service that enhances the wellbeing and con
 ### Key Features:
 - **Map**: This is essential in a delivery app, for both hikers and operators. For hikers it can be handy to see where they are in the wilderness, as well as serving as a reminder for where their order will be delivered. For operators it is imperative that they see where they are delivering items to, and allows them to decide whether a hiker is too far for delivery. In addition, parts of the map can be downloaded for offline use.
 - **Order Menu**: A clean menu for hikers to select what they need, provides additional information on each item plus their price. A hiker with a scratch would not want to browse for items, so we kept the screen very minimal.
-- **Pending Orders**: Operators need to see what orders are available, when they were placed, where from, and what item was ordered. We give the operator the option to filter the orders, perhaps an operator only has one item in stock, or only delivers to a certain location. 
+- **Pending Orders**: Operators need to see what orders are available, when they were placed, where from, and what item was ordered. We give the operator the option to filter the orders, perhaps an operator only has one item in stock, or only delivers to a certain location.
+- **Offline Guides**: A very helpful offline feature is the guides. They are accessible with or without auth and can provide useful tips to new hikers.
 
 *User stories about how various personas will use the product in context.*
 
