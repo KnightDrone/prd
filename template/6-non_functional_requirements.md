@@ -2,10 +2,10 @@
 
 ## Security, privacy, and data retention policies
 
-### Data and Privacy
+### Data and privacy
 All authentication is handled by Google firebase, we do not store sensitive information like passwords in our databases. What we do store is limited information about the user necessary to identify them as well as information on orders such as location, date, item ordered. Furthermore, messages between the user and the chatbot are cached locally but not stored on our servers.
 
-### Laws and Regulations
+### Laws and regulations
 Since we are using drones, we have to be very careful with legal considerations. This will be a major part of our communication with operators. We will only allow certain drones to be used, since drones that weigh less than 250g do not require training to fly in Switzerland. In addition, drone operators will have to provide proof of identity as they must be over the age of 18. We will be careful not to allow orders from locations where drones are not allowed to fly, for example near air fields, penal institutions, and nuclear power plants. Since this app is for hikers it is unlikely this safeguard will be used but it is crucial to have in place.
 *Which are the applicable laws and regulations?*
 
