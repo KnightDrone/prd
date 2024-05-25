@@ -7,9 +7,16 @@ FOr the development of our app, we used Typescript and React Native, which allow
 
 ### Essential screens
 #### User screens
-**login/signup screen**
-This is the initial screen that loads (unless the user is already signed in)
-Some essential screens include our login/signup page, the map, the order menu, the offline guides, and expected time of delivery for hikers. For operators there is the operator map, the pending orders screen, and the delivery accepted screen.
+- **Login/signup screen**: This is the initial screen that loads (unless the user is already signed in). It includes options for logging in with email or Google; a sign up page with fields for username, email, password, and confirmation; password recovery. The user interface is clean and straightforward, with clear instructions and error handling.
+- **Map**: Logging in redirects here but if the user is already signed in, this is the initial screen. We use the Google Maps API to display the user's current location and nearby places of interest. The map has real-time location tracking and intuitive map controls with zoom in/out and a recenter button.
+- **Order menu**: This is a simple menu that displays all items available. On clicking each card it displays the description, price, image of the item, and a pay button to confirm their selection.
+- **Expected time of arrival**: Once the order is placed, the user is navigated to a screen that displays the estimated delivery time for the ordered item. The screen has real-time updates and shows the current status of the delivery and estimated arrival time with a progress bar.
+
+#### Operator screens
+- **Operator map**: This is the equivalent of the user map for the operator. It includes all the features of the original map, as well as displaying all orders in the area as pins on the map, color-coded to their status.
+- **Pending orders screen**: This is a more detailed view of the pending orders. It displays information on items ordered, user location, and time of order. Also, it gives operators the ability to sort and search orders. The interface is a clear listing format with easy access to detailed order information.
+- **Order accepted screen**: Once an operator accepts an order they navigate back to the map but with just their location and the pin of the accepted order.
+
 
 *List the key libraries, languages, components used by the MVP.*
 
