@@ -39,7 +39,7 @@ Fields:
 - operator ID
 - operator name
 - order date and time
-- status (accepted, pending, cancelled, delivered)
+- status (accepted, pending, cancelled, shipped, delivered)
 - user ID
 - order location
 - delivery date and time
