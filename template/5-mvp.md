@@ -3,8 +3,6 @@
 ## Personas and Scenarios
 The WildKnight MVP aims to provide a service that enhances the wellbeing and convenience of outdoor adventures by providing essential supplies via drone delivery to remote locations. The target personas for this product are outdoor enthusiasts, hikers, and campers who enjoy exploring remote areas. The key persona is the outdoor enthusiast who values convenience and safety during their adventures.
 
-
-
 *Who are the target personas for this product?*
 
 *Which is the key persona?*
