@@ -1,7 +1,5 @@
 # Business Model
 
-At the core of our business model for Wild Knight is the understanding that our primary customer is going to be hikers
-
 The business model for Wild Knight is designed around the unique requirements and opportunities associated with providing essential supplies to hikers and outdoor enthusiasts in remote locations through drone delivery. Our primary revenue streams and cost structures reflect our focus on operational efficiency, user satisfaction, and sustainable growth.
 
 ## Expected operating Costs
