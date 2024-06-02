@@ -28,7 +28,7 @@ We have planned 10 sprints, each with specific goals and deliverables:
 - Sprint 8-9: Conduct extensive testing with real devices and finalize UI/UX. Add enhancing features such as profile pictures, notifications, chatbot to make our app standout.
 - Sprint 10: Prepare for the final version release and initial beta testing.
 
-# Post-Version 1 Plans
+## Post-Version 1 Plans
 After the release of version 1 (v1), we will focus on the following improvements:
 
 - Conducting a beta release with a select group of users to gather feedback.
