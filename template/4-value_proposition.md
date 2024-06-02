@@ -9,12 +9,3 @@ Wild Knight's value proposition is defensible due to our strategic use of establ
 
 **Relevant**
 Wild Knight provides an unaddressed need for hikers and outdoor enthusiasts who can find themselves underequipped in remote locations. Outdoor activities are growing in popularity, and the demand for convenient and reliable services around the field are on the rise. Wild Knight's value proposition is highly relevant to this target audience, offering a solution that enhances their outdoor experience and safety.
-
-*Describe the value proposition and argue that it is:*
-
-*1. Easy to communicate*
-
-*2. Defensible*
-
-*3. Relevant*
-
